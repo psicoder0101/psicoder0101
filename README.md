@@ -1,7 +1,6 @@
-### Hi there 👋
+### Olá, aqui é o Pedro 👋
+Sou recém formado em Psicologia pela [UFPA](https://ufpa.br/), comecei minha carreira DEV com o cusro técnico em Desenvolvimento de Sistemas no [IFSULDEMINAS](https://portal.ifsuldeminas.edu.br/) e atualmente estou progredindo no curso superior de Tecnologia da Informação na [UFMS](https://ufms.br/). Temas como desenvolvimento e criação, comunicação, cybercultura, programação, eletrônica e afins sempre estão, de alguma forma, entre meus gostos e hobbies. Gosto de passar meu tempo com as máquinas desde que sou capaz de lembrar e, atualmente, venho procurando formas criativas de utilizar meus conhecimentos de Psicologia dentro da programação.
 
-<!--
-**psicoder0101/psicoder0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
